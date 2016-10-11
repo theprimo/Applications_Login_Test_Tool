@@ -21,9 +21,10 @@ Dependency:
 
 Technologies used to develop this tool:
 -Java8
--Eclipse JEE Mars4.5
+-Apache POI
 -Selenide3.5.1
- *which internally uses Selenium2.53.0
+-Eclipse JEE Mars4.5
+*which internally uses Selenium2.53.0
 
 Note: Due to some reasons, some files are present here in zip format, while executing the tool please do unzip those required zipped files.
 
